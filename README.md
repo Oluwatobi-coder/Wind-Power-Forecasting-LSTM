@@ -95,7 +95,7 @@ The LSTM model demonstrated near-perfect alignment with simulated ground-truth d
 | --- | --- |
 | **Root Mean Square Error (RMSE)** | 0.0099 |
 | **Mean Absolute Error (MAE)** | 0.0061 |
-| **R² Score (Variance Explained)** | 0.9989 |
+| **R² Score** | 0.9989 |
 
 ### Performance Visualizations
 
@@ -119,4 +119,4 @@ Contributions are welcome! Potential improvements include:
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
-If you find this simulation framework useful, please ⭐ the repository!
+If you find this predictive model framework useful, please ⭐ the repository!
