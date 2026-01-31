@@ -1,6 +1,6 @@
 # Short-Term Wind Power Forecasting using LSTM Networks
 
-[Link to Live App ⚡:]()
+[Open the Live Wind Power Forecasting App⚡]()
 
 <p align="center">
 <img src="./results/dashboard_preview.png" alt="Control Room Dashboard Preview" style="width:90%; height:auto; object-fit: cover;">
