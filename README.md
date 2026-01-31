@@ -1,4 +1,4 @@
-# Short-Term Wind Power Forecasting using LSTM Networks
+# Short-Term Wind Power Forecasting using LSTM Networks For Grid Control
 
 [Open the Live Wind Power Forecasting App⚡]()
 
