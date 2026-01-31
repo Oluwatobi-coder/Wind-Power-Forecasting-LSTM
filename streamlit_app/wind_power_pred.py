@@ -180,6 +180,6 @@ with col_right:
     if volatility > 0.15:
         st.error(f"**Action:** ⚠️ **Ramp Alert.** High volatility detected (Standard Deviation: {volatility:.2f}). Pre-charge battery storage.")
     elif avg_power > 0.8:
-        st.success(f"**Action:** 🟢 **Peak Generation.** Forecast avg {avg_power:.0%} capacity. Export excess to main grid.")
+        st.success(f"**Action:** 🟢 **Peak Generation.** Forecast average {avg_power:.0%} capacity. Export excess to main grid.")
     else:
         st.info(f"**Action:** 🔵 **Steady State.** Grid stable. Maintain standard dispatch protocols.")
