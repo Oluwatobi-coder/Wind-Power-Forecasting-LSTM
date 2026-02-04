@@ -28,7 +28,7 @@ model, scaler, feature_cols, df_test = load_system()
 
 # setting up the sidebar
 st.sidebar.title("Wind Turbine Control Station⚡")
-st.sidebar.subheader("Site: Location 1 - Onshore")
+st.sidebar.subheader("Site: Location 1 - Offshore")
 
 # setting up the time selection slider
 max_time = len(df_test) - 50
